@@ -319,6 +319,7 @@ body {
     display: block;
   }
 }
+
 /* 
 ============= 
 PROJECTS 
@@ -358,6 +359,10 @@ PROJECTS
   text-align: center;
   padding: 1rem 0;
   color: var(--grey-700);
+}
+
+.margin{
+  margin: 1.5rem;
 }
 
 @media (min-width: 768px) {
